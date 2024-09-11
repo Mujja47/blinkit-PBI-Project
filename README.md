@@ -24,10 +24,9 @@ Average Customer Rating: 3.9
 
 ## Outlet Performance Analysis:
 
-Outlet Establishment: [Brief description of the timeline chart]
-Outlet Location Type: [Brief description of the breakdown]
-Outlet Size: [Brief description of the breakdown]
-Key Metrics: [Mention the metrics analyzed for different outlet types and sizes]
+Outlet Establishment: Line chart showing outlet establishment year and total sales.
+Outlet Location Type: Matrix chart showcasing sales performance by outlet location and type.
+Outlet Size: Donut chart describing outlet size distribution.
 
 ## Visualizations:
 
