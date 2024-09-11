@@ -25,7 +25,9 @@ Average Customer Rating: 3.9
 ## Outlet Performance Analysis:
 
 Outlet Establishment: Line chart showing outlet establishment year and total sales.
+
 Outlet Location Type: Matrix chart showcasing sales performance by outlet location and type.
+
 Outlet Size: Donut chart describing outlet size distribution.
 
 ## Visualizations:
